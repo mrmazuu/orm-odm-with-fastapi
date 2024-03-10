@@ -25,12 +25,15 @@ FastAPI User Management is a web application that allows you to manage user reco
    ```bash
     git https://github.com/mrmazuu/orm-odm-with-fastapi
 ```
+2. Move to project directory:
 ```bash
 cd orm-odm
 ```
+3. Install requirements
 ```bash
 pip install -r requirements.txt
 ```
+4. run uvicorn server
 ```bash
 uvicorn main:app --reload
 ```
