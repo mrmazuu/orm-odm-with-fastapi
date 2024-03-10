@@ -1,4 +1,4 @@
-# FastAPI User Management with ODM, ORM
+# FastAPI User Management with ODM & ORM
 
 FastAPI User Management is a web application that allows you to manage user records using both Object-Document Mapping (ODM) with MongoDB and Object-Relational Mapping (ORM) with SQLite databases. This project demonstrates how to create, read, update, and delete (CRUD) user records using FastAPI with different database technologies.
 
