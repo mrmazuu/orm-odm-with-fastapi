@@ -22,7 +22,7 @@ FastAPI User Management is a web application that allows you to manage user reco
 
 1. Clone the repository:
 ```bash
-git https://github.com/mrmazuu/orm-odm-with-fastapi
+git clone https://github.com/mrmazuu/orm-odm-with-fastapi
 ```
 2. Move to project directory:
 ```bash
